@@ -1,0 +1,20 @@
+{
+  "name": "repo18",
+  "version": "1.0.0",
+  "description": "last daily task",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mirza-herenda/Repo18.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mirza-herenda/Repo18/issues"
+  },
+  "homepage": "https://github.com/Mirza-herenda/Repo18#readme"
+}
